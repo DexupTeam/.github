@@ -33,7 +33,7 @@ Dexup est une application web (PWA) gratuite pour suivre sa collection de cartes
 
 ## L'équipe
 
-[@iPaulux](https://github.com/iPaulux) · [@lschvn](https://github.com/lschvn)
+Dexup est développé par [@iPaulux](https://github.com/iPaulux), avec l'aide de [@lschvn](https://github.com/lschvn).
 
 ## Données et remerciements
 
