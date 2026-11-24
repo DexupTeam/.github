@@ -6,7 +6,7 @@
 
 **Ta collection de cartes Pokémon, dans ta poche.**
 
-[Ouvrir l'app](https://dexup.netlify.app) · [Code de l'app](https://github.com/DexupTeam/DexupApp)
+[Ouvrir l'app](https://dexup.netlify.app) · [Site](https://dexup-site.netlify.app) · [Code de l'app](https://github.com/DexupTeam/DexupApp)
 
 </div>
 
@@ -29,7 +29,7 @@ Dexup est une application web (PWA) gratuite pour suivre sa collection de cartes
 | Dépôt | Contenu |
 |---|---|
 | [DexupApp](https://github.com/DexupTeam/DexupApp) | L'application : React, Vite, Supabase, déployée sur Netlify |
-| [Dexup-Website](https://github.com/DexupTeam/Dexup-Website) | La page de présentation (site statique) |
+| [Dexup-Website](https://github.com/DexupTeam/Dexup-Website) | La page de présentation ([dexup-site.netlify.app](https://dexup-site.netlify.app)), site statique |
 
 ## L'équipe
 
