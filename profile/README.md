@@ -19,9 +19,10 @@ Dexup est une application web (PWA) gratuite pour suivre sa collection de cartes
 - **Toutes les extensions**, anglaises, japonaises et chinoises, avec les noms en français
 - **Scanner** : pointe la caméra sur une carte, Dexup la reconnaît (anglais, français, japonais, chinois), directement dans le navigateur
 - **Valeur de la collection** d'après les prix Cardmarket, avec l'évolution des prix dans le temps
+- **Finance** : courbe de la valeur, cartes les plus chères, plus fortes hausses et baisses
 - **Classeur** : listes, favoris, cartes gradées, photos de tes propres cartes
 - **Produits scellés** : boosters, displays, ETB, avec leurs prix
-- **Communauté** : profils publics, vitrine de tes plus belles cartes, abonnements
+- **Communauté** : profils publics, vitrine de tes plus belles cartes (dans l'ordre que tu veux), liens X et Instagram, abonnements
 - Actualités du TCG et agenda des salons
 
 ## Dépôts
